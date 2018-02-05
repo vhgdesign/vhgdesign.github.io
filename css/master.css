@@ -1,0 +1,160 @@
+body
+{
+    margin:0 auto;
+    background-color:#262626;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #1c1c1c;
+    font-family: roboto;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #c0334a;
+}
+
+
+#capa
+{
+    vertical-align: middle;
+    text-align: center;
+    background-size: cover;
+    background-image: url('../img/background.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 40%;
+}
+
+#capa img{
+    width: 20%;
+
+}
+
+#works{
+  font-family: roboto;
+  background-color: white;
+  width: 70%;
+  font-size: 3em;
+  margin-top: 50px;
+  margin-left: 15%;
+  text-align: center;
+  border-radius: 10px;
+  -webkit-box-shadow: 14px 6px 64px -5px rgba(0,0,0,1);
+  -moz-box-shadow: 14px 6px 64px -5px rgba(0,0,0,1);
+  box-shadow: 14px 6px 64px -5px rgba(0,0,0,1);
+}
+#works .title{
+   text-shadow: 4px 3px 13px rgba(152, 150, 150, 1);
+}
+ .title{
+  position: absolute;
+  left: 36%;
+  font-family: "Lobster";
+  width: 30%;
+  border-bottom: 1px solid;
+}
+#works img{
+  margin: 2%;
+  width: 32.333%;
+  vertical-align: middle;
+}
+
+.footer{
+  margin-top: 10%;
+
+  width: 100%;
+  height: 10em;
+  background-color: #1c1c1c;
+
+}
+.icon{
+  float: left;
+  border: solid 10px #1c1c1c;
+  border-radius: 50px;
+
+  width: 3em;
+  height: 3em;
+  background-color: #262626;
+}
+.icon:hover{
+  background-color: #c0334a;
+  transition: 0.5s;
+}
+.icon img{
+  width: 2em;
+  margin-left: 15.5%;
+  margin-top: 15%;
+}
+hr {
+  margin-top: 1.6%;
+  float: left;
+  width: 30%;
+}
+.footer a{
+  text-decoration:none;
+  color: white;
+  font-family: roboto;
+  
+}
+.contato{
+  position:sticky;
+  background-color: #c0334a;
+  width: 100%;
+  height: 50%;
+  margin-top: 10%;
+  text-align: center;
+  padding-bottom: 1%;
+}
+.contato .title{
+  position: relative;
+  font-size: 3em;
+  text-shadow: 4px 3px 13px rgba(117,29,44,1);
+}
+.formulario{
+  position: relative;
+  width: 100%;
+  margin-top: 3%;
+}
+.form-item{
+  display: inline-block;
+  margin-bottom: 1%;
+  margin-left: 2%;
+  border-radius: 10px;
+  border-style: none;
+  font-size: 1.2em;
+
+  padding: 8px;
+  width: 34%;
+}
+::-webkit-input-placeholder  { font-size: 1em; color:#262626; margin: 10px; font-family: roboto;  }
+
+.formulario button{
+  border-style: none;
+  color: white;
+  width: 10%;
+  height: 2.7em;
+  font-family: roboto;
+  border-radius: 10px;
+  font-size: 1.2em;
+  background-color: #262626;
+
+}
+ .small{
+  height: 30px;
+}

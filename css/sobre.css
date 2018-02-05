@@ -1,0 +1,37 @@
+body{
+  background-image: url('../img/background2.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.about{
+  position: absolute;
+  top: 20%;
+  left:31%;
+  background-color: white;
+  border-radius: 10px;
+  width: 40%;
+  padding-bottom: 1%;
+
+}
+h1{
+  margin:inherit;
+  text-align: center;
+  font-family: "Lobster";
+  font-weight: normal;
+}
+hr{
+  width: 70%;
+}
+img{
+  width:30%;
+  margin-left: 14.5%;
+  float: left;
+}
+p{
+  margin: 1%;
+  font-size: 1.2em;
+  font-family: roboto;
+  text-align: justify;
+  width: 40%;
+  float: left;
+}
