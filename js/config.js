@@ -3,13 +3,13 @@ var values = {
       "logo":"logo.png",
       "backgroundCapa":"backgroud.jpg",
       "works":["banner01.jpg","banner02.jpg","banner03.jpg","banner04.jpg","banner05.jpg","MEXICAN.jpg"],
-      "sobreText":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "sobreText":"Meu nome é Vinicius Gomes, trabalho como designer gráfico, sou técnico em informatica no colégio Poli Técnico Bento Quirino, Tenho curso completo de Web Designer.",
       "imagemSobre":"sobre2.jpg",
       "facebook":"",
       "twitter":"",
       "instagram":"",
-      "gmail":"",
-      "seuEmail":""
+      "gmail":"vinicius.henrique1546@gmail.com",
+      "seuEmail":"vinicius.henrique2007@hotmail.com"
     }
 
 function setValues()
