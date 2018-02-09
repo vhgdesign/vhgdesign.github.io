@@ -4,7 +4,7 @@ var values = {
       "backgroundCapa":"backgroud.jpg",
       "works":["banner01.jpg","banner02.jpg","banner03.jpg","banner04.jpg","banner05.jpg","MEXICAN.jpg"],
       "sobreText":"Meu nome é Vinicius Gomes, trabalho como designer gráfico, sou técnico em informatica no colégio Poli Técnico Bento Quirino, Tenho curso completo de Web Designer.",
-      "imagemSobre":"sobre2.jpg",
+      
       "facebook":"",
       "twitter":"",
       "instagram":"",
